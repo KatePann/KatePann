@@ -5,7 +5,6 @@
 
 <p align="left">
 LinkedIn: https://www.linkedin.com/in/katya-panyukova-6a2819252
-Telegram: https://t.me/KateriNkaPan
 </p>
 <p align="left">
 Telegram: https://t.me/KateriNkaPan
