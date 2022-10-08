@@ -2,7 +2,10 @@
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
+LinkedIn: https://www.linkedin.com/in/katya-panyukova-6a2819252
+Telegram:
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
